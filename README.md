@@ -1,11 +1,10 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/bhoomigupta1304/bhoomigupta1304/main/banner3.png"
+    src="https://raw.githubusercontent.com/Bhoomi-Gupta1304/Bhoomi-Gupta1304/main/banner3.png"
     alt="Hi, I'm Bhoomi Gupta Banner"
-    style="width: 100%; max-height: 140px; object-fit: cover; border-radius: 10px;"
+    style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 10px;"
   />
 </p>
-
 ## 🌌 About Me
 🔥 Passionate Developer | 🎓 BTech CSE  
 💻 Learning **Java, DSA, Web Development**  
