@@ -10,7 +10,6 @@
 🔥 Passionate Developer | 🎓 BTech CSE  
 💻 Learning **Java, DSA, Web Development**  
 ⚡ Love building projects & exploring backend  
-📧 Email: **bhoomigupta75@gmail.com**
 
 ---
 
