@@ -5,11 +5,12 @@
     style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 10px;"
   />
 </p>
-## 🌌 About Me
+
+## 🪐 About Me
+
 🔥 Passionate Developer | 🎓 BTech CSE  
 💻 Learning **Java, DSA, Web Development**  
-⚡ Love building projects & exploring backend  
-
+⚡ Love building projects & exploring backend
 ---
 
 # 🚀 Tech Stack (Neon Badges)
